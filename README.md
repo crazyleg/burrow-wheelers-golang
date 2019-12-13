@@ -25,12 +25,12 @@ Build-in Suffix Array is faster than BZIP implementation ... explain blocks and 
 ![Zoomed view](small.png)
 
 ### TODO
- [x] Implement naive approach for compression
- [x] Benchmark naive approach and create tests and benchmarks
- [x] Benchmark approach from reference 2 - suffix array
- [x] Use suffixarray construction routine from golang std lib
- [x] Extract BWT part from BZIP2 and benchmark it.
- [x] Don't forget to show Naive BWT data
+ - [x] Implement naive approach for compression
+ - [x] Benchmark naive approach and create tests and benchmarks
+ - [x] Benchmark approach from reference 2 - suffix array
+ - [x] Use suffixarray construction routine from golang std lib
+ - [x] Extract BWT part from BZIP2 and benchmark it.
+ - [x] Don't forget to show Naive BWT data
  
 
 
