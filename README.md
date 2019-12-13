@@ -1,4 +1,4 @@
-# Burrow-wheelers transoform in Golang.
+# Burrow-wheelers transform in Golang.
 *Graduation project for Algorithms course held at Projector in 2019.*
 
 ### About
